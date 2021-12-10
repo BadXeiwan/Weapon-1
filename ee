@@ -1,0 +1,2 @@
+-- Weapon one
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-420.87085, 9.8805275, -282.336121, 1, 0, 0, 0, 1, 0, 0, 0, 1)
